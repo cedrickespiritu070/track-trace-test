@@ -1,0 +1,7 @@
+[
+    { "day": "Today", "completed": 75, "delayed": 25, "created": 60 },
+    { "day": "This Week", "completed": 80, "delayed": 20, "created": 60 },
+    { "day": "Last Month", "completed": 60, "delayed": 40,"created": 60 },
+    { "day": "Annual", "completed": 60, "delayed": 40,"created": 60 }
+  ]
+  

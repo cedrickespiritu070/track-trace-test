@@ -1,0 +1,9 @@
+
+@media (max-width: 590px) and (min-width: 300px) {
+    .create-shipment-stepper{
+      scale: 0.5;
+      width: 193px;
+      margin: 0 auto;
+    }
+  }
+  

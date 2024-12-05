@@ -1,0 +1,8 @@
+[
+    { "type": "user", "message": "User has been added", "timestamp": "2 Hours ago" },
+    { "type": "shipment", "message": "Shipment is placed", "timestamp": "2 Hours ago" },
+    { "type": "shipment", "message": "Shipment# is in transit", "timestamp": "2 Hours ago" },
+    { "type": "shipment", "message": "Shipment# is delivered", "timestamp": "2 Hours ago" },
+    { "type": "user", "message": "User has been added", "timestamp": "2 Hours ago" }
+  ]
+  

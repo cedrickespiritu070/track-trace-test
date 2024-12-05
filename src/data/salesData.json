@@ -1,0 +1,6 @@
+ [
+  { "time": "Today", "totalSales": 1000, "profit": 250, "expenses": 150 },
+  { "time": "This Week", "totalSales": 5000, "profit": 1200, "expenses": 800 },
+  { "time": "Last Month", "totalSales": 15000, "profit": 3500, "expenses": 3000 },
+  { "time": "Annual", "totalSales": 10000, "profit": 2000, "expenses": 5000 }
+]

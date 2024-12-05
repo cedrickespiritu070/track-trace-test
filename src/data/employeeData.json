@@ -1,0 +1,28 @@
+{
+    "EMP001": {
+      "name": "John Doe",
+      "designation": "Logistics Manager",
+      "totalShipmentsHandled": 25
+    },
+    "EMP002": {
+      "name": "Jane Smith",
+      "designation": "Warehouse Supervisor",
+      "totalShipmentsHandled": 18
+    },
+    "EMP003": {
+      "name": "Alice Tan",
+      "designation": "Delivery Coordinator",
+      "totalShipmentsHandled": 15
+    },
+    "EMP004": {
+      "name": "Carlos Mendoza",
+      "designation": "Order Processor",
+      "totalShipmentsHandled": 12
+    },
+    "EMP005": {
+      "name": "Carlos Mendoza",
+      "designation": "Order Processor",
+      "totalShipmentsHandled": 12
+    }
+  }
+  

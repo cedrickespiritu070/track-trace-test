@@ -1,0 +1,16 @@
+/* ToastContainer styling */
+.Toastify__toast-container {
+    margin: 0 auto !important; /* Center horizontally */
+    max-width: 90vw; /* Ensure width doesn't exceed 90% of the viewport width */
+  }
+  
+  .Toastify__toast--error {
+    width: 100% !important; /* Full width */
+    max-width: 500px; /* Set a max width for larger screens */
+  }
+
+  @media (max-width: 480px) {
+    .Toastify__toast--error{
+    left:20px;
+    }
+  }

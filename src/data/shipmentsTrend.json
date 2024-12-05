@@ -1,0 +1,8 @@
+[
+    { "category": "Total Shipments", "2022": 15, "2023": 25, "2024": 45 },
+    { "category": "Delivered Shipments", "2022": 20, "2023": 30, "2024": 50 },
+    { "category": "Pending Shipments", "2022": 10, "2023": 40, "2024": 60 },
+    { "category": "Delayed Shipments", "2022": 5, "2023": 35, "2024": 55 },
+    { "category": "Returned Shipments", "2022": 8, "2023": 28, "2024": 38 }
+  ]
+  

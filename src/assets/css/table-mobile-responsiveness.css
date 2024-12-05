@@ -1,0 +1,83 @@
+@media (max-width: 1383px) and (min-width:1024px) {
+    .table-container{
+        overflow-y: auto;
+        max-width: 69vw;
+        margin: 0 auto;
+    }
+}
+@media (min-width: 1383px) {
+    .table-container{
+        position: relative;
+    }
+}
+
+
+@media (max-width: 1023px) and (min-width:768px) {
+    .table-container{
+        overflow-y: auto;
+        max-width: 83vw;
+        margin: 0 auto;
+    }
+}
+
+@media (max-width: 767px) and (min-width:640px) {
+    .table-container{
+        overflow-y: auto;
+        max-width: 80vw;
+        margin: 0 auto;
+    }
+}
+
+
+@media (min-width:641px) {
+}
+@media (max-width:640px) {
+    .scroller{
+        min-width: none !important;
+    }
+}
+/* Horizontal Line Styling */
+
+/* Responsive Layout for Small Screens */
+@media (max-width: 640px) {
+  .stepper {
+    display: flex;
+    align-items: flex-start;
+    width: auto;
+    flex-direction: column;
+  }
+  .line-desktop{
+    display: none;
+  }
+  .line-mobile{
+    top:0rem;
+    left: 2.4rem;
+  } 
+  .responsiveTable tr{
+      padding-bottom: 2rem;
+  }
+  td.fixed-col {
+    height: auto !important;
+  }
+
+}
+@media (min-width: 641px) {
+    
+    .line-mobile{
+      display: none;
+    }
+    .responsiveTable tr{
+        padding-bottom: 2rem;
+    }
+  
+  }
+
+  .table-container th,
+  .table-container td {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: 50px;
+  }
+
+ 
